@@ -9,6 +9,7 @@ fi
 git add .
 git commit -m "$msg" -a
 git push origin main
+printf "\033[0;32mDeploying updates to public...\033[0m\n"
 cd public
 git add .
 git commit -m "$msg" -a
