@@ -8,7 +8,7 @@ draft: false
 
 (Spring, 2025)
 
-Before continuing, note that the following is based on data collected in 2019 and may not be an accurate picture of the current state of classical radio programming at these stations today in 2024. This is a dormant project, but one we hope to return to in the future. As it is, the data serve as a record of classical radio in 2019, and anecdotally speaking probably speaks to the current state of things.
+Before continuing, note that the following is based on data collected in 2019 and may not be an accurate picture of the current state of classical radio programming at these stations today. This is a dormant project, but one we hope to return to in the future. As it is, the data serve as a record of classical radio in 2019, and anecdotally speaking probably speaks to the current state of things.
 
 ---
 
