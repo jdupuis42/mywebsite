@@ -2,7 +2,7 @@
 title: "About"
 draft: false
 ---
-I'm a musicologist and (mostly amateur) musician currently living in Fort Wayne, Indiana. I am a clinical assistant professor of music theory and musicology at the Purdue University Fort Wayne School of Music.
+Hello, I'm a musicologist and (mostly amateur) musician currently living in Fort Wayne, Indiana. I am a clinical assistant professor of music theory and musicology at the Purdue University Fort Wayne School of Music.
 
 I graduated from the University of Notre Dame in 2011 and earned my PhD in musicology from Brandeis University in 2021 with a dissertation on composers' importations of popular theater genres into—to borrow from historian, William Weber—high-prestige music making. My research focuses on music, history and aesthetics in German-speaking lands and the United States after 1800. I'm especially interested in ways that cultural hierarchies interact in, and across, various repertoires. Lately, I've turned my attention toward the voice and vocality in film and theater (musical or spoken). Among other topics, I have researched and written on:
 
