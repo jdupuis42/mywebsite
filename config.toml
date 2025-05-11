@@ -23,15 +23,16 @@ theme = "hugo-theme-m10c"
     url = "/cv"
     weight = 3
   [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+  [[menu.main]]
     identifier = "classical-radio"
     name = "Gender on Classical Radio"
     url = "/who-isnt-on-the-radio"
     weight = 5
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
+
 
 
 [params]
@@ -40,10 +41,10 @@ theme = "hugo-theme-m10c"
   avatar = "headshot.JPG"
   favicon = "jgraphic.jpg"
   menu_item_separator = " // "
-  [[params.social]]
-    icon = "mail"
-    name = "Email"
-    url = "mailto:jdupuis42@gmail.com"
+#  [[params.social]]
+#    icon = "mail"
+#    name = "Email"
+#    url = "mailto:jdupuis42@gmail.com"
 #  [[params.social]]
 #    icon = "brand-x"
 #    name = "X"

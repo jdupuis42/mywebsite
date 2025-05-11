@@ -1,14 +1,14 @@
 ---
 title: (Who Isn't) On the Radio
 description: Who do we hear on classical radio?
-lastmod: 2024-11-16
+lastmod: 2025-05-10
 keywords: classical, radio, united states, america, american, gender, women, composers
 draft: false
 ---
 
-(November, 2024)
+(Spring, 2025)
 
-Before continuing, note that the following is based on data collected in 2019 and may not be an accurate picture of the current state of classical radio programming at these stations today in 2024. We are currently working on updating this project to reflect current/recent statistics, with intent to submit for publication.
+Before continuing, note that the following is based on data collected in 2019 and may not be an accurate picture of the current state of classical radio programming at these stations today in 2024. This is a dormant project, but one we hope to return to in the future. As it is, the data serve as a record of classical radio in 2019, and anecdotally speaking probably speaks to the current state of things.
 
 ---
 
