@@ -1,0 +1,78 @@
+baseURL = ""
+title = "Jacques Dupuis"
+themesDir = "themes"
+theme = "hugo-theme-m10c"
+
+[pagination]
+  pagerSize = 8
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "home"
+    name = "Posts"
+    url = "/"
+    weight = 2
+  [[menu.main]]
+    identifier = "CV"
+    name = "CV"
+    url = "/cv"
+    weight = 3
+  [[menu.main]]
+    identifier = "classical-radio"
+    name = "Gender on Classical Radio"
+    url = "/who-isnt-on-the-radio"
+    weight = 5
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
+
+[params]
+  author = "Jacques Dupuis"
+  description = "musicologist"
+  avatar = "headshot.JPG"
+  favicon = "jgraphic.jpg"
+  menu_item_separator = " // "
+  [[params.social]]
+    icon = "mail"
+    name = "Email"
+    url = "mailto:jdupuis42@gmail.com"
+#  [[params.social]]
+#    icon = "brand-x"
+#    name = "X"
+#    url = "https://twitter.com/gohugoio"
+  [[params.social]]
+    icon = "brand-bluesky"
+    name = "Blueskey"
+    url = "https://bsky.app/profile/jacquesdupuis.bsky.social"
+
+  # Default theme
+  # [params.style]
+  #   darkestColor = "#242930"
+  #   darkColor = "#353b43"
+  #   lightColor = "#afbac4"
+  #   lightestColor = "#ffffff"
+  #   primaryColor = "#57cc8a"
+
+  # Green theme
+   [params.style]
+     darkestColor = "#9ed1f0"
+     darkColor = "#e9f0e8"
+     lightColor = "#212529"
+     lightestColor = "#fff"
+     primaryColor = "#419e5a"
+
+  # Red theme
+  # [params.style]
+  #   darkestColor = "#d35050"
+  #   darkColor = "#212121"
+  #   lightColor = "#d6d6d6"
+  #   lightestColor = "#d3d3d3"
+  #   primaryColor = "#ffffff"
