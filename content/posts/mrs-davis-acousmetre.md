@@ -4,17 +4,6 @@ date: 2023-06-04
 keywords: Mrs. Davis, Mrs Davis, AI, acousmetre, acousmetric, film music, michel chion, film, music, the dark knight rises, bane, khonshu, moon knight
 draft: false
 
-twitter:
-  card: "summary_large_image"
-  title: "The Acousmetric Mrs. Davis"
-  description: "AI, nuns, and Chion's powerful trope."
-  image: "https://jacquesdupuis.com/mrs-davis/hilde.jpg"
-
-opengraph:
-  type: "article"
-  title: "The Acousmetric Mrs. Davis"
-  description: "AI, nuns, and Chion's powerful trope."
-  image: "https://jacquesdupuis.com/mrs-davis/hilde.jpg"
 
 ---
 | ![Acousmatic Nunnery](/mrs-davis/hilde.jpg) |
