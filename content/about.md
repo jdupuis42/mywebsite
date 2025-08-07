@@ -16,7 +16,8 @@ I graduated from the University of Notre Dame in 2011 and earned my PhD in music
 * structures of commendation and honor for 19th-century German musicians, focused on Clara Schumann
 * gender representation in US-ian classical music radio programming (an ongoing collaborative project with my wife, Kathryn, which will soon be publicly hosted on this website)
 * middlebrow culture, American opera, and Cold War-era middle-class anxieties, focusing on Samuel Barber
-* currently working on an essay on Robert Schumann as a conductor
+* theories of voice in narrative film and television, particularly political and social significances of the acousmêtre and other mediated voices 
+* currently working on research for a forthcoming essay on Robert Schumann as a conductor
 
 
 I have previously taught at Framingham State University, Northeastern University, Brandeis University, Harvard University, Longy School of Music, and lectured in Brandeis's Osher Lifelong Learning program. For much of my time in Boston, I was a member, assistant music director, music director and board member for Calliope, an orchestral and choral ensemble in Boston. Amateur music making is near and dear to me, though my participation in it has been on pause during the pandemic. You can find more information in my CV, posted on this site.
