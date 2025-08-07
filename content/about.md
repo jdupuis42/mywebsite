@@ -16,7 +16,8 @@ I graduated from the University of Notre Dame in 2011 and earned my PhD in music
 * structures of commendation and honor for 19th-century German musicians, focused on Clara Schumann
 * gender representation in US-ian classical music radio programming (an ongoing collaborative project with my wife, Kathryn, which will soon be publicly hosted on this website)
 * middlebrow culture, American opera, and Cold War-era middle-class anxieties, focusing on Samuel Barber
-* theories of voice in narrative film and television, particularly political and social significances of the acousmêtre and other mediated voices 
+* theories of voice in narrative film and television, particularly political and social significances of the acousmêtre and other mediated voices
+* pre-existing music and issues of musical form in adaptation in film and television
 * currently working on research for a forthcoming essay on Robert Schumann as a conductor
 
 
