@@ -18,7 +18,7 @@ I earned my PhD in musicology from Brandeis University in 2021 with a dissertati
 * middlebrow culture, American opera, and Cold War-era middle-class anxieties, focusing on Samuel Barber
 * theories of voice in narrative film and television, particularly political and social significances of the acousmêtre and other mediated voices
 * pre-existing music and issues of musical form in adaptation in film and television
-* currently working on research for a forthcoming essay on Robert Schumann as a conductor
+* currently working on an essay on Robert Schumann as a conductor
 
 
 I have previously taught at Framingham State University, Northeastern University, Brandeis University, Harvard University, Longy School of Music, and lectured in Brandeis's Osher Lifelong Learning program. For much of my time in Boston, I was a member, assistant music director, music director and board member for Calliope, an orchestral and choral ensemble in Boston. Amateur music making is near and dear to me, though my participation in it has been on pause during the pandemic. You can find more information in my CV, posted on this site.
