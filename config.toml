@@ -2,7 +2,6 @@ baseURL = ""
 title = "Jacques Dupuis"
 themesDir = "themes"
 theme = "hugo-theme-m10c"
-google_analytics = "G-7LNYLS8K84"
 
 [pagination]
   pagerSize = 8
