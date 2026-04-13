@@ -23,6 +23,7 @@ opengraph:
 |:-------------:|
 
 Originally posted 7 January 2022
+
 Updated 12 April 2026
 
 *Catch Me If You Can* (2002), as a piece of filmmaking, is sort of famously clever, sometimes to an extreme  saccharine degree that tests our willingness to buy into its premise. Its music and sound play a pretty significant role in that challenge; the somewhat uncharacteristic but enthralling style John Williams composed in for the score draws us in, and the various uses of pre-existing music throughout the film do the work that that kind of music usually does in film. Maybe the most famous clever moment of pre-existing music is the emotionally fraught use of Nat King Cole's "The Christmas Song" in the movie’s denouement.
