@@ -23,7 +23,7 @@ It's a fairly well-worn trope by now, but I think we can continue building on th
 
 Bane's (Tom Hardy) extensively memed speech from *The Dark Knight Rises*
 
-{{< youtube _LuDURj4KrM >}}
+{{< youtube "OxrbEGgM6es?si=1q6CQPLrwdmOKLwQ&t=227" >}}
 
 The spectral Khonshu (F. Murray Abraham) antagonizes *Moon Knight*'s protagonist, Marc Spector (Oscar Isaac).
 ***
