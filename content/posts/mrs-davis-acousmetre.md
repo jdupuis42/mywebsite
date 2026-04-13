@@ -23,9 +23,9 @@ It's a fairly well-worn trope by now, but I think we can continue building on th
 
 Bane's (Tom Hardy) extensively memed speech from *The Dark Knight Rises*
 
-{{< youtube "OxrbEGgM6es?si=1q6CQPLrwdmOKLwQ&t=227" >}}
+{{< youtube OxrbEGgM6es >}}
 
-The spectral Khonshu (F. Murray Abraham) antagonizes *Moon Knight*'s protagonist, Marc Spector (Oscar Isaac).
+The spectral Khonshu (F. Murray Abraham) antagonizes *Moon Knight*'s protagonist, Marc Spector (Oscar Isaac). Navigate to 3m47s in this video for the scene.
 ***
 
 At this point, I’m interested in these kinds of paradoxical presentations, and my attention lately has focused on a paradoxical acousmêtre in Bong Joon-ho’s phenomenal *Parasite* (2018). I think the film lives up to its hype, doing so many of the things for which the director and screenwriter has come to be known, much of which is in service of his trademark social critique. The character in *Parasite* I view as an acousmêtre underpins the film’s socio-economic critique by way of inverting some of the key traits of the trope that have accrued over time, particularly acousmêtre characters’ typical positions of social and economic power. At the expense of stopping short, I’ll leave my ideas on *Parasite* for after I submit the article parsing this idea. Suffice it to say for the moment, what I find so appealing about the acousmêtre idea, even 40 years after its initial theorizing, is its largely underutilized affordance linking film criticism/theory to cultural context. I’m thinking about this through *Parasite*.
