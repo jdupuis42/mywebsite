@@ -1,6 +1,6 @@
 ---
 title: "The Abagnales Sing Along"
-date: 2022-01-07
+date: 2026-04-12
 draft: false
 description: "Maybe there's something symbolic about the Abagnales singing along with Mitch."
 keywords: film music, catch me if you can, diegetic, nondiegetic, cartoons, sing along
@@ -22,9 +22,10 @@ opengraph:
 | ![Still from Has Anybody Here Seen Kelly](/catch-me-diegesis/anybody_kelly.jpg) |
 |:-------------:|
 
-7 January 2022
+Originally posted 7 January 2022
+Updated 12 April 2026
 
-*Catch Me If You Can* (2002), as a piece of filmmaking, is sort of famously clever, sometimes to an extreme, even saccharine degree that tests our willingness to buy into its premise. Its music and sound play a pretty significant role in that challenge; the somewhat uncharacteristic but enthralling style John Williams composed in for the score draws us in, and the various uses of pre-existing music throughout the film do the work that kind of music usually does in film. Maybe the most famous clever moment of pre-existing music is the emotionally fraught use of Nat King Cole's "The Christmas Song" in the movie’s denouement.
+*Catch Me If You Can* (2002), as a piece of filmmaking, is sort of famously clever, sometimes to an extreme  saccharine degree that tests our willingness to buy into its premise. Its music and sound play a pretty significant role in that challenge; the somewhat uncharacteristic but enthralling style John Williams composed in for the score draws us in, and the various uses of pre-existing music throughout the film do the work that that kind of music usually does in film. Maybe the most famous clever moment of pre-existing music is the emotionally fraught use of Nat King Cole's "The Christmas Song" in the movie’s denouement.
 
 {{< youtube ljP4Bl-PxrY >}}
 
@@ -38,4 +39,4 @@ But aside from the way the Abagnales’ performance captures mid-century America
 
 {{< youtube iRGUY7lyyk8 >}}
 
-Whether the music department or Spielberg intended it for *Catch Me If You Can*, there’s a plausible symbol in the Abagnales tuning in the Sing Along with Mitch to sing this specific song. It certainly shows Frank’s chameleoning extending even to his own family and a portrayal of normalcy that he seems uncomfortable with but can adapt to. But I think there’s also a symbol in the history of this song vis-à-vis film and its later use by Miller. Throughout *Catch Me If You Can*, we can never truly claim certainty over what’s genuine (disguises! forgery! diegesis! identity!), and this draws us into a meta-commentary on film history. Early film with sound was decried as artificial; film scorers and directors had opinions about realism for music and film ontologies; etc. Here we have a wink at that history—bouncing-ball-type programs break the fourth wall, and those kinds of walls are constantly threatened throughout *Catch Me If You Can*. At the same time, participatory programming like the Fleischers’ eased audiences into suspending their disbeliefs through this somewhat familiar format. If Catch Me If You Can is about suspending our disbeliefs about the facts of Frank Abagnale Jr.’s real-life story, “Has Anybody Here Seen Kelly” subtly asks us to try, to enjoy a clever embellishment of the story.
+Whether the music department or Spielberg intended it for *Catch Me If You Can*, there’s a plausible symbol in the Abagnales tuning in to Sing Along with Mitch to sing this specific song. It certainly shows Frank’s chameleoning extending even to his own family and a portrayal of normalcy that he seems uncomfortable with but can adapt to. But I think there’s also a symbol in the history of this song vis-à-vis film and its later use by Miller. Throughout *Catch Me If You Can*, we can never truly claim certainty over what’s genuine (disguises! forgery! diegesis! identity!), and this draws us into a meta-commentary on film history. Early film with sound was decried as artificial; film scorers and directors had opinions about realism for music and film ontologies; etc. Here we have a wink at that history—bouncing-ball-type programs break the fourth wall, and those kinds of walls are constantly threatened throughout *Catch Me If You Can*. At the same time, participatory programming like the Fleischers’ eased audiences into suspending their disbeliefs through this somewhat familiar format. If *Catch Me If You Can* is about suspending our disbeliefs regarding the facts of Frank Abagnale Jr.’s real-life story, “Has Anybody Here Seen Kelly” subtly asks us to try to enjoy a clever embellishment of the story.
