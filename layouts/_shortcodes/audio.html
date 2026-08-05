@@ -1,3 +1,14 @@
-{{ with resources.Get (.Get "src") }}
+<!-- {{ with resources.Get (.Get "src") }}
   <audio controls preload="auto" src="{{ .RelPermalink }}"></audio>
-{{ end }}
+{{ end }} -->
+
+
+<figure>
+  <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+    <source src="{{ .Get "src" | relURL }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  {{ with .Get "caption" }}
+    <figcaption>{{ . }}</figcaption>
+  {{ end }}
+</figure>
