@@ -26,8 +26,6 @@ opengraph:
 
 Over the last few years, I’ve been thinking intermittently about bathos, conventionally understood as an incongruous lighter moment inserted into an otherwise somewhat heavy atmosphere. It’s sort of unavoidable if you keep up with Marvel movies even half-heartedly. They’re littered with oddball deflation where shoehorned humor punctures a mood, begotten of some mix of earnest fan service and a wish to be seen as self-aware and ironic, witty. Take your pick, but the “hide the zucchini” bit from *Age of Ultron* is one example.
 
- <!-- https://youtube.com/shorts/_01EUA5bUaE?si=7OBlyEomItOiXd7J -->
-
 {{< youtube Y1joI6L-r2s >}}
 
 I don’t want to slag Marvel screenwriters too hard, but it’s not exactly finessed.
@@ -45,8 +43,6 @@ I watch an average parent’s amount of children’s media, and I range widely b
 The [plot]( https://www.mtishows.com/elephant-piggies-we-are-in-a-play) is suitably digestible, revolves around the title characters’ friendship, their invitation to a party, and their bite-size adventures getting there (choosing clothes, etc.), including some fun gags (mix ups lead to things like ice cream getting thrown over a shoulder). It’s cute.
 
 What’s stuck with me, though, is a song toward the end of the show where Elephant and Piggie reflect on what they’ve been through. Compared to the persistently upbeat, toe-tapping songs that come before, “We’ll Be Friends” really strikes a different chord. Below is a snippet to get a sense. ([Spotify link to the full track](https://open.spotify.com/track/18vSNUklEDBuQRGt5nde5P?si=11aecf396d124b43). Sorry for using Spotify--the recording is nowhere else to be found.)
-
-<!-- https://open.spotify.com/track/18vSNUklEDBuQRGt5nde5P?si=11aecf396d124b43 -->
 
 {{< audio src=/bathos-two-ways/well-be-friends.mp3 caption="Intro, first verse, and beginning of chorus from 'We'll Be Friends'">}}
 
