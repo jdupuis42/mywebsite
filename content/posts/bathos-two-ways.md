@@ -42,9 +42,9 @@ I watch an average parent’s amount of children’s media, and I range widely b
 
 The [plot]( https://www.mtishows.com/elephant-piggies-we-are-in-a-play) is suitably digestible, revolves around the title characters’ friendship, their invitation to a party, and their bite-size adventures getting there (choosing clothes, etc.), including some fun gags (mix ups lead to things like ice cream getting thrown over a shoulder). It’s cute.
 
-What’s stuck with me, though, is a song toward the end of the show where Elephant and Piggie reflect on what they’ve been through. Compared to the persistently upbeat, toe-tapping songs that come before, “We’ll Be Friends” really strikes a different chord. Below is a snippet to get a sense. ([Spotify link to the full track](https://open.spotify.com/track/18vSNUklEDBuQRGt5nde5P?si=11aecf396d124b43). Sorry for using Spotify--the recording is nowhere else to be found.)
+What’s stuck with me, though, is a song toward the end of the show where Elephant and Piggie reflect on what they’ve been through. Compared to the persistently upbeat, toe-tapping songs that come before, “We’ll Be Friends” really strikes a different chord. Below is a snippet to get a sense (may not work on mobile). ([Spotify link to the full track](https://open.spotify.com/track/18vSNUklEDBuQRGt5nde5P?si=11aecf396d124b43). Sorry for using Spotify--the recording is nowhere else to be found.)
 
-{{< audio src=/bathos-two-ways/well-be-friends.mp3 caption="Intro, first verse, and beginning of chorus from 'We'll Be Friends'">}}
+{{< audio src="/bathos-two-ways/well-be-friends.mp3" caption="Intro, first verse, and beginning of chorus from 'We'll Be Friends'">}}
 
 It pulls some common tricks that introduce elevated emotion into music: the stripped-down orchestration, the plaintive ostinato piano accompaniment, the wistful lyrics and subject matter, and the use of harmonies with a modal-mixture-derived flattened scale degree 6 (“le” in a major key, for the solfège-enjoyers). I’ve seen those kinds of harmonies called “tear drop chords,” since they’re often used at heightened emotional moments, something like the harmony that hits at “Where I long to be” and “What is wrong with me?” in “How Far I’ll Go” from *Moana*.
 
