@@ -46,7 +46,7 @@ What’s stuck with me, though, is a song toward the end of the show where Eleph
 
 {{< audio src="/bathos-two-ways/well-be-friends.mp3" caption="Intro, first verse, and beginning of chorus from 'We'll Be Friends'">}}
 
-It pulls some common tricks that introduce elevated emotion into music: the stripped-down orchestration, the plaintive ostinato piano accompaniment, the wistful lyrics and subject matter, and the use of harmonies with a modal-mixture-derived flattened scale degree 6 (“le” in a major key, for the solfège-enjoyers). I’ve seen those kinds of harmonies called “tear drop chords,” since they’re often used at heightened emotional moments, something like the harmony that hits at “Where I long to be” and “What is wrong with me?” in “How Far I’ll Go” from *Moana*.
+It pulls some common tricks that introduce elevated emotion into music: the stripped-down orchestration, the plaintive ostinato piano accompaniment, the wistful lyrics and subject matter, and the use of harmonies with a modal-mixture-derived flattened scale degree 6 (“le” in a major key, for the solfège-enjoyers). I’ve heard those kinds of harmonies called “tear drop chords,” since they’re often used at heightened emotional moments.[^1] The harmony that hits at “Where I long to be” and “What is wrong with me?” in “How Far I’ll Go” from *Moana* is one example.
 
 {{< youtube cPAbx5kgCJo >}}
 
@@ -65,3 +65,5 @@ It’s not that the entire show lacks serious matter—it is, after all, a show 
 Yet, the show also takes the air out of itself toward the end with a prolonged meta-humor bit called “A Glitzy Finale” that dwells on the plot and an arrogant America’s role in ending the war. This is a more classic version of bathos where the immediate context is relatively serious and high minded, and comedy takes over. Or maybe it’s camp here. Take your pick. Either way, I think it once again exemplifies the kind of disillusionment that Vogel references—historically, the Mincemeat plot is overshadowed in global memory by American chauvinism, the kind of thing that embitters idealism. You can watch in the video above at about [41:35](https://youtu.be/QcXYpbRg-YY?si=Y2jjFYC_nUozl615&t=2495).
 
 Perhaps *Mincemeat* in its entirety understands bathos in both positive and negative terms. There might be a better way of naming this kind of inversion than a negatively-rendered bathos, though I don’t think anything like pathos quite catches it, and I would wager that calling it maudlin or melodramatic gives short shrift to an impactful effect. There’s something very useful here. To that end, maybe we can leverage the humanistic potential of this negatively connoted idea.
+
+[^1]: Here's a [podcast by John Baxter](https://smt-pod.org/episodes/season01/e1.3/) on that idea.
