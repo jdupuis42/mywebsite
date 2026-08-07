@@ -22,7 +22,7 @@ opengraph:
 | ![A likely crew.](/bathos-two-ways/bathos-cover.jpg) |
 |:-------------:|
 
-5 August 2026
+Updated: 7 August 2026
 
 Over the last few years, I’ve been thinking intermittently about bathos, conventionally understood as an incongruous lighter moment inserted into an otherwise somewhat heavy atmosphere. It’s sort of unavoidable if you keep up with Marvel movies even half-heartedly. They’re littered with oddball deflation where shoehorned humor punctures a mood, begotten of some mix of earnest fan service and a wish to be seen as self-aware and ironic, witty. Take your pick, but the “hide the zucchini” bit from *Age of Ultron* is one example.
 
