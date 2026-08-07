@@ -28,7 +28,7 @@ Over the last few years, I’ve been thinking intermittently about bathos, conve
 
 {{< youtube Y1joI6L-r2s >}}
 
-I don’t want to slag Marvel screenwriters too hard, but it’s not exactly finessed. 
+I don’t want to slag Marvel screenwriters too hard, but it’s not exactly finessed.
 
 There’s no shortage of definitions for bathos, but I like literature scholar Andrew Vogel’s reading of it. Vogel builds off Alexander Pope’s more nuanced version: “Rather than define bathos literally as a perverse descent from elevated to base ideas, I would…define bathos as couching an abiding disillusionment in unfunny comedy” ([Vogel 396](https://www.jstor.org/stable/43485897)). This seems to get to the bottom of things a bit more compellingly than the more pessimistic way bathos is often discussed. Vogel and Pope search for answers to “Why bathos?” As their contravention implies, creative uses of bathos---intentional or not---can sometimes be deeply cynical. It’s hard to look at a juvenile dick joke in the middle of a battle scene as anything other than talking down to the audience, forsaking your own pretenses. Vogel’s definition suggests to me that there’s something disillusioned in the idealism of Marvel heroes’ dialogue. The entire enterprise of Marvel is idealism, and this might be a nuanced shade of that where the idealism becomes superficial and the real belief is irreverent.
 
@@ -60,7 +60,7 @@ For me, a lot of *Mincemeat*’s flash comes from its lightning-fast repartee an
 
 {{< youtube QcXYpbRg-YY >}}
 
-It’s not that the entire show lacks serious matter—it is, after all, a show about a wartime plot and toward the end it takes a run at offering humanity to the man whose body was used for the operation. But to this point, much of the show has been carried by wit and humor, and then this song happens. It’s a jarring and complete shift, though long term it sets up a final recognition of the man who unwillingly lent his body to the effort. The show would lack much of its human touch without “Dear Bill.” Here, bathos is once again inverted, and I think the show hinges on this moment.
+It’s not that the entire show lacks serious matter—it is, after all, a show about a wartime plot and toward the end it takes a run at offering humanity to the man whose body was used for the operation. But to this point, much of the show has been carried by wit and humor, and then this song happens. It’s a jarring and complete shift, though long term it sets up a final recognition of the man who unwillingly lent his body to the effort. The show would lack much of its human touch without “Dear Bill.” Here, bathos is once again inverted, and I think the show hinges on this moment. 
 
 Yet, the show also takes the air out of itself toward the end with a prolonged meta-humor bit called “A Glitzy Finale” that dwells on the plot and an arrogant America’s role in ending the war. This is a more classic version of bathos where the immediate context is relatively serious and high minded, and comedy takes over. Or maybe it’s camp here. Take your pick. Either way, I think it once again exemplifies the kind of disillusionment that Vogel references—historically, the Mincemeat plot is overshadowed in global memory by American chauvinism, the kind of thing that embitters idealism. You can watch in the video above at about [41:35](https://youtu.be/QcXYpbRg-YY?si=Y2jjFYC_nUozl615&t=2495).
 
