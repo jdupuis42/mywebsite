@@ -28,7 +28,7 @@ Over the last few years, I’ve been thinking intermittently about bathos, conve
 
 {{< youtube Y1joI6L-r2s >}}
 
-I don’t want to slag Marvel screenwriters too hard, but it’s not exactly finessed.
+I don’t want to slag Marvel screenwriters too hard, but it’s not exactly finessed. 
 
 There’s no shortage of definitions for bathos, but I like literature scholar Andrew Vogel’s reading of it. Vogel builds off Alexander Pope’s more nuanced version: “Rather than define bathos literally as a perverse descent from elevated to base ideas, I would…define bathos as couching an abiding disillusionment in unfunny comedy” ([Vogel 396](https://www.jstor.org/stable/43485897)). This seems to get to the bottom of things a bit more compellingly than the more pessimistic way bathos is often discussed. Vogel and Pope search for answers to “Why bathos?” As their contravention implies, creative uses of bathos---intentional or not---can sometimes be deeply cynical. It’s hard to look at a juvenile dick joke in the middle of a battle scene as anything other than talking down to the audience, forsaking your own pretenses. Vogel’s definition suggests to me that there’s something disillusioned in the idealism of Marvel heroes’ dialogue. The entire enterprise of Marvel is idealism, and this might be a nuanced shade of that where the idealism becomes superficial and the real belief is irreverent.
 
